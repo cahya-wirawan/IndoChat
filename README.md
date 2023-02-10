@@ -1,2 +1,3 @@
 # IndoChat
-Indonesian Conversational AI - a GPT model fine tuned with instruction dataset.
+
+Indonesian Conversational AI - a GPT model fine tuned with conversational dataset.
